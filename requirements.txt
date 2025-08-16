@@ -1,0 +1,16 @@
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+torch
+sentence-transformers
+chromadb
+streamlit
+unstructured[local-inference]
+pypdf
+pytesseract
+pdf2image
+opencv-python
+
+# Note: You must also install the Tesseract OCR engine on your system.
+# See installation instructions for your OS.
