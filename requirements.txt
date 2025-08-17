@@ -12,5 +12,3 @@ pytesseract
 pdf2image
 opencv-python
 
-# Note: You must also install the Tesseract OCR engine on your system.
-# See installation instructions for your OS.
